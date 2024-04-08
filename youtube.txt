@@ -1,1 +1,3 @@
 www.youtube.com##.ytd-guide-entry-renderer.style-scope.guide-icon > .yt-icon.style-scope > .yt-spec-icon-shape > div
+
+www.youtube.com###masthead > .ytd-masthead.style-scope
