@@ -1,2 +1,1 @@
-www.youtube.com##[is-shorts]
-www.youtube.com##ytd-reel-shelf-renderer
+www.youtube.com##.ytd-guide-entry-renderer.style-scope.guide-icon > .yt-icon.style-scope > .yt-spec-icon-shape > div
